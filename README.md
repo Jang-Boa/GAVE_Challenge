@@ -37,6 +37,7 @@ export CUDA_VISIBLE_DEVICES=0    # Use only GPU 0
 python infer.py \
   --input "/path/to/validation/images" \
   --output "./BOA" \
+  --weight-path "./weights" \
   --vessel-weight "Vessel_model.pth" \
   --vessel-support-weight "M-FunFound_Vessel.pth" \
   --av-weight "AV_model.pth" \
