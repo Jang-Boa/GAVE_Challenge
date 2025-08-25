@@ -1,0 +1,4 @@
+Please download the model weights from
+https://drive.google.com/drive/folders/12JnGXZCmm7C03nVB8ELtBqIhezatnD8g?usp=sharing
+
+and place them in this folder (/weights).
